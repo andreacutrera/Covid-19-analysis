@@ -4,8 +4,7 @@
 <img src="cov-19.jpg" width="1000">
 </div>
 <div align="center">
-  Andrea Pio Cutrera - Matriculation Number: 965591
-</div>
+  www.sanita24.ilsole24ore.com 
 <br />
 
 
