@@ -18,7 +18,6 @@ Many revolutions are taking place, and one of the most important is the scientif
 Here I report also the code I developed for some graphs and gifs. 
 This code takes aggregated national data from the GitHub of Civil Protection Department of Italy (<https://github.com/pcm-dpc/COVID-19>), and after some manipulation returns graphs and gifs.
 
-There are three sections accessible in the upper panel, and they are named (in order from the left to the right): `Age Ranges`, `Best Regions` and `Analysis`.
 
 ### How to critically read Covid-19 data.pdf
 
