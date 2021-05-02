@@ -1,10 +1,10 @@
 <h1 align="center">Covid-19-project</h1>
 
 <div align="center">
-<img src="cov-19.jpg" width="1000">
+<img src="cov-19.jpg" width="800">
 </div>
 <div align="center">
-  www.sanita24.ilsole24ore.com 
+  image from: www.sanita24.ilsole24ore.com 
 <br />
 
 
