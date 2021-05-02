@@ -1,7 +1,7 @@
 <h1 align="center">Covid-19-project</h1>
 
 <div align="center">
-<img src="cov-19.jpg" width="250">
+<img src="cov-19.jpg" width="1000">
 </div>
 <div align="center">
   Andrea Pio Cutrera - Matriculation Number: 965591
