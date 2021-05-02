@@ -30,7 +30,9 @@ This is the Jupyter notebook document of the data manipulation and visualization
 
 ### COVID_19_code-regions.ipynb
 
-This is the Jupyter notebook document of the data manipulation and visualization of the regional aggregate.
+This is the Jupyter notebook document of the data manipulation and visualization of the regional aggregate:
+- Lombardia
+- Emilia-Romagna
 
 
 ## Author/Copyright
